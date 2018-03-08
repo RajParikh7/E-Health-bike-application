@@ -1,0 +1,317 @@
+Station,Location,Day,Time,Count
+Location 1: Regents Drive @ Route 1,Sidewalk,3,9,5
+Location 1: Regents Drive @ Route 1,Sidewalk,3,10,12
+Location 1: Regents Drive @ Route 1,Sidewalk,3,11,4
+Location 1: Regents Drive @ Route 1,Sidewalk,3,12,20
+Location 1: Regents Drive @ Route 1,Sidewalk,3,13,8
+Location 1: Regents Drive @ Route 1,Sidewalk,3,15,3
+Location 1: Regents Drive @ Route 1,Sidewalk,3,16,21
+Location 1: Regents Drive @ Route 1,Sidewalk,3,17,11
+Location 1: Regents Drive @ Route 1,Sidewalk,3,18,24
+Location 1: Regents Drive @ Route 1,Sidewalk,4,8,2
+Location 1: Regents Drive @ Route 1,Sidewalk,4,9,6
+Location 1: Regents Drive @ Route 1,Sidewalk,4,10,6
+Location 1: Regents Drive @ Route 1,Sidewalk,4,11,1
+Location 1: Regents Drive @ Route 1,Sidewalk,4,12,9
+Location 1: Regents Drive @ Route 1,Sidewalk,4,13,3
+Location 1: Regents Drive @ Route 1,Sidewalk,4,16,6
+Location 1: Regents Drive @ Route 1,Sidewalk,4,17,7
+Location 1: Regents Drive @ Route 1,Sidewalk,4,18,5
+Location 1: Regents Drive @ Route 1,Street,3,9,1
+Location 1: Regents Drive @ Route 1,Street,3,10,8
+Location 1: Regents Drive @ Route 1,Street,3,12,8
+Location 1: Regents Drive @ Route 1,Street,3,13,9
+Location 1: Regents Drive @ Route 1,Street,3,14,1
+Location 1: Regents Drive @ Route 1,Street,3,15,1
+Location 1: Regents Drive @ Route 1,Street,3,16,6
+Location 1: Regents Drive @ Route 1,Street,3,17,9
+Location 1: Regents Drive @ Route 1,Street,3,18,8
+Location 1: Regents Drive @ Route 1,Street,4,8,3
+Location 1: Regents Drive @ Route 1,Street,4,9,6
+Location 1: Regents Drive @ Route 1,Street,4,10,4
+Location 1: Regents Drive @ Route 1,Street,4,12,1
+Location 1: Regents Drive @ Route 1,Street,4,16,1
+Location 1: Regents Drive @ Route 1,Street,4,17,9
+Location 1: Regents Drive @ Route 1,Street,4,18,9
+Location 2: Mowatt Lane Garage Exit at Knox Road,Sidewalk,3,13,1
+Location 2: Mowatt Lane Garage Exit at Knox Road,Sidewalk,3,16,5
+Location 2: Mowatt Lane Garage Exit at Knox Road,Sidewalk,3,17,1
+Location 2: Mowatt Lane Garage Exit at Knox Road,Sidewalk,3,18,4
+Location 2: Mowatt Lane Garage Exit at Knox Road,Sidewalk,4,12,1
+Location 2: Mowatt Lane Garage Exit at Knox Road,Sidewalk,4,13,6
+Location 2: Mowatt Lane Garage Exit at Knox Road,Sidewalk,4,17,3
+Location 2: Mowatt Lane Garage Exit at Knox Road,Sidewalk,4,18,2
+Location 2: Mowatt Lane Garage Exit at Knox Road,Street,3,13,3
+Location 2: Mowatt Lane Garage Exit at Knox Road,Street,3,16,15
+Location 2: Mowatt Lane Garage Exit at Knox Road,Street,3,17,9
+Location 2: Mowatt Lane Garage Exit at Knox Road,Street,3,18,1
+Location 2: Mowatt Lane Garage Exit at Knox Road,Street,4,12,4
+Location 2: Mowatt Lane Garage Exit at Knox Road,Street,4,13,12
+Location 2: Mowatt Lane Garage Exit at Knox Road,Street,4,14,2
+Location 2: Mowatt Lane Garage Exit at Knox Road,Street,4,16,5
+Location 2: Mowatt Lane Garage Exit at Knox Road,Street,4,17,7
+Location 2: Mowatt Lane Garage Exit at Knox Road,Street,4,18,7
+Location 3: Mall at Woods Hall,Sidewalk,3,10,54
+Location 3: Mall at Woods Hall,Sidewalk,3,11,7
+Location 3: Mall at Woods Hall,Sidewalk,3,15,1
+Location 3: Mall at Woods Hall,Sidewalk,3,16,39
+Location 3: Mall at Woods Hall,Sidewalk,3,17,36
+Location 3: Mall at Woods Hall,Sidewalk,3,18,35
+Location 3: Mall at Woods Hall,Sidewalk,3,19,1
+Location 3: Mall at Woods Hall,Sidewalk,4,9,66
+Location 3: Mall at Woods Hall,Sidewalk,4,10,41
+Location 3: Mall at Woods Hall,Sidewalk,4,11,8
+Location 3: Mall at Woods Hall,Sidewalk,4,12,35
+Location 3: Mall at Woods Hall,Sidewalk,4,13,41
+Location 3: Mall at Woods Hall,Sidewalk,4,14,3
+Location 3: Mall at Woods Hall,Sidewalk,4,18,6
+Location 3: Mall at Woods Hall,Street,3,10,28
+Location 3: Mall at Woods Hall,Street,3,11,2
+Location 3: Mall at Woods Hall,Street,4,9,15
+Location 3: Mall at Woods Hall,Street,4,13,9
+Location 3: Mall at Woods Hall,Street,4,14,1
+Location 4: Regents Drive at Main Administration,Sidewalk,3,8,1
+Location 4: Regents Drive at Main Administration,Sidewalk,3,9,9
+Location 4: Regents Drive at Main Administration,Sidewalk,3,12,44
+Location 4: Regents Drive at Main Administration,Sidewalk,3,13,24
+Location 4: Regents Drive at Main Administration,Sidewalk,3,14,4
+Location 4: Regents Drive at Main Administration,Sidewalk,3,16,9
+Location 4: Regents Drive at Main Administration,Sidewalk,3,17,8
+Location 4: Regents Drive at Main Administration,Sidewalk,3,18,9
+Location 4: Regents Drive at Main Administration,Sidewalk,4,8,4
+Location 4: Regents Drive at Main Administration,Sidewalk,4,9,23
+Location 4: Regents Drive at Main Administration,Sidewalk,4,10,16
+Location 4: Regents Drive at Main Administration,Sidewalk,4,11,7
+Location 4: Regents Drive at Main Administration,Sidewalk,4,12,13
+Location 4: Regents Drive at Main Administration,Sidewalk,4,13,6
+Location 4: Regents Drive at Main Administration,Sidewalk,4,16,29
+Location 4: Regents Drive at Main Administration,Sidewalk,4,17,29
+Location 4: Regents Drive at Main Administration,Sidewalk,4,18,15
+Location 4: Regents Drive at Main Administration,Street,3,8,9
+Location 4: Regents Drive at Main Administration,Street,3,9,44
+Location 4: Regents Drive at Main Administration,Street,3,12,34
+Location 4: Regents Drive at Main Administration,Street,3,13,45
+Location 4: Regents Drive at Main Administration,Street,3,14,7
+Location 4: Regents Drive at Main Administration,Street,3,16,25
+Location 4: Regents Drive at Main Administration,Street,3,17,18
+Location 4: Regents Drive at Main Administration,Street,3,18,12
+Location 4: Regents Drive at Main Administration,Street,4,8,11
+Location 4: Regents Drive at Main Administration,Street,4,9,30
+Location 4: Regents Drive at Main Administration,Street,4,10,32
+Location 4: Regents Drive at Main Administration,Street,4,11,5
+Location 4: Regents Drive at Main Administration,Street,4,12,50
+Location 4: Regents Drive at Main Administration,Street,4,13,11
+Location 4: Regents Drive at Main Administration,Street,4,16,57
+Location 4: Regents Drive at Main Administration,Street,4,17,34
+Location 4: Regents Drive at Main Administration,Street,4,18,16
+Location 5: Campus Drive at Paint Branch Drive,Sidewalk,3,8,13
+Location 5: Campus Drive at Paint Branch Drive,Sidewalk,3,9,23
+Location 5: Campus Drive at Paint Branch Drive,Sidewalk,3,10,21
+Location 5: Campus Drive at Paint Branch Drive,Sidewalk,3,11,8
+Location 5: Campus Drive at Paint Branch Drive,Sidewalk,3,12,22
+Location 5: Campus Drive at Paint Branch Drive,Sidewalk,3,13,28
+Location 5: Campus Drive at Paint Branch Drive,Sidewalk,3,14,6
+Location 5: Campus Drive at Paint Branch Drive,Sidewalk,3,16,38
+Location 5: Campus Drive at Paint Branch Drive,Sidewalk,3,17,32
+Location 5: Campus Drive at Paint Branch Drive,Sidewalk,3,18,15
+Location 5: Campus Drive at Paint Branch Drive,Sidewalk,4,8,21
+Location 5: Campus Drive at Paint Branch Drive,Sidewalk,4,9,40
+Location 5: Campus Drive at Paint Branch Drive,Sidewalk,4,10,49
+Location 5: Campus Drive at Paint Branch Drive,Sidewalk,4,11,7
+Location 5: Campus Drive at Paint Branch Drive,Sidewalk,4,12,45
+Location 5: Campus Drive at Paint Branch Drive,Sidewalk,4,13,31
+Location 5: Campus Drive at Paint Branch Drive,Sidewalk,4,14,10
+Location 5: Campus Drive at Paint Branch Drive,Sidewalk,4,16,19
+Location 5: Campus Drive at Paint Branch Drive,Sidewalk,4,17,34
+Location 5: Campus Drive at Paint Branch Drive,Sidewalk,4,18,24
+Location 5: Campus Drive at Paint Branch Drive,Street,3,8,5
+Location 5: Campus Drive at Paint Branch Drive,Street,3,9,6
+Location 5: Campus Drive at Paint Branch Drive,Street,3,10,12
+Location 5: Campus Drive at Paint Branch Drive,Street,3,11,9
+Location 5: Campus Drive at Paint Branch Drive,Street,3,12,11
+Location 5: Campus Drive at Paint Branch Drive,Street,3,13,14
+Location 5: Campus Drive at Paint Branch Drive,Street,3,14,2
+Location 5: Campus Drive at Paint Branch Drive,Street,3,16,10
+Location 5: Campus Drive at Paint Branch Drive,Street,3,17,9
+Location 5: Campus Drive at Paint Branch Drive,Street,3,18,2
+Location 5: Campus Drive at Paint Branch Drive,Street,4,8,3
+Location 5: Campus Drive at Paint Branch Drive,Street,4,9,13
+Location 5: Campus Drive at Paint Branch Drive,Street,4,10,13
+Location 5: Campus Drive at Paint Branch Drive,Street,4,12,25
+Location 5: Campus Drive at Paint Branch Drive,Street,4,13,9
+Location 5: Campus Drive at Paint Branch Drive,Street,4,14,2
+Location 5: Campus Drive at Paint Branch Drive,Street,4,16,17
+Location 5: Campus Drive at Paint Branch Drive,Street,4,17,10
+Location 5: Campus Drive at Paint Branch Drive,Street,4,18,7
+Location 6: Campus Drive at the Stamp,Sidewalk,3,8,6
+Location 6: Campus Drive at the Stamp,Sidewalk,3,9,18
+Location 6: Campus Drive at the Stamp,Sidewalk,3,11,4
+Location 6: Campus Drive at the Stamp,Sidewalk,3,12,20
+Location 6: Campus Drive at the Stamp,Sidewalk,3,13,42
+Location 6: Campus Drive at the Stamp,Sidewalk,3,14,12
+Location 6: Campus Drive at the Stamp,Sidewalk,3,16,18
+Location 6: Campus Drive at the Stamp,Sidewalk,3,17,19
+Location 6: Campus Drive at the Stamp,Sidewalk,3,18,15
+Location 6: Campus Drive at the Stamp,Sidewalk,4,8,4
+Location 6: Campus Drive at the Stamp,Sidewalk,4,9,20
+Location 6: Campus Drive at the Stamp,Sidewalk,4,10,19
+Location 6: Campus Drive at the Stamp,Sidewalk,4,11,3
+Location 6: Campus Drive at the Stamp,Sidewalk,4,12,3
+Location 6: Campus Drive at the Stamp,Sidewalk,4,13,27
+Location 6: Campus Drive at the Stamp,Sidewalk,4,14,6
+Location 6: Campus Drive at the Stamp,Sidewalk,4,16,11
+Location 6: Campus Drive at the Stamp,Sidewalk,4,17,25
+Location 6: Campus Drive at the Stamp,Sidewalk,4,18,13
+Location 6: Campus Drive at the Stamp,Street,3,8,1
+Location 6: Campus Drive at the Stamp,Street,3,9,3
+Location 6: Campus Drive at the Stamp,Street,3,11,1
+Location 6: Campus Drive at the Stamp,Street,3,12,3
+Location 6: Campus Drive at the Stamp,Street,3,13,10
+Location 6: Campus Drive at the Stamp,Street,3,14,2
+Location 6: Campus Drive at the Stamp,Street,3,16,3
+Location 6: Campus Drive at the Stamp,Street,3,17,3
+Location 6: Campus Drive at the Stamp,Street,3,18,3
+Location 6: Campus Drive at the Stamp,Street,4,8,3
+Location 6: Campus Drive at the Stamp,Street,4,9,4
+Location 6: Campus Drive at the Stamp,Street,4,10,9
+Location 6: Campus Drive at the Stamp,Street,4,13,15
+Location 6: Campus Drive at the Stamp,Street,4,14,2
+Location 6: Campus Drive at the Stamp,Street,4,16,5
+Location 6: Campus Drive at the Stamp,Street,4,17,3
+Location 6: Campus Drive at the Stamp,Street,4,18,1
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Sidewalk,3,8,5
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Sidewalk,3,9,34
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Sidewalk,3,10,26
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Sidewalk,3,11,4
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Sidewalk,3,12,19
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Sidewalk,3,13,15
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Sidewalk,3,14,1
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Sidewalk,3,17,40
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Sidewalk,4,8,6
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Sidewalk,4,9,10
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Sidewalk,4,10,12
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Sidewalk,4,11,4
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Sidewalk,4,12,22
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Sidewalk,4,13,7
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Sidewalk,4,18,24
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Street,3,8,4
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Street,3,9,60
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Street,3,10,62
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Street,3,11,6
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Street,3,12,71
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Street,3,13,44
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Street,3,14,18
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Street,3,17,57
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Street,4,8,29
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Street,4,9,48
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Street,4,10,51
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Street,4,11,9
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Street,4,12,61
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Street,4,13,18
+Location 7a: Regents Drive at Stadium Drive NORTH/SOUTH,Street,4,18,29
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Sidewalk,3,8,3
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Sidewalk,3,9,16
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Sidewalk,3,10,5
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Sidewalk,3,11,6
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Sidewalk,3,12,9
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Sidewalk,3,13,11
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Sidewalk,3,14,6
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Sidewalk,3,15,13
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Sidewalk,3,16,8
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Sidewalk,3,17,4
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Sidewalk,3,18,1
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Sidewalk,4,9,6
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Sidewalk,4,11,1
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Sidewalk,4,12,7
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Sidewalk,4,13,12
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Sidewalk,4,14,6
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Sidewalk,4,16,37
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Sidewalk,4,17,26
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Sidewalk,4,18,15
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Street,3,8,4
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Street,3,9,40
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Street,3,10,32
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Street,3,11,3
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Street,3,12,49
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Street,3,13,46
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Street,3,14,9
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Street,3,15,41
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Street,3,16,30
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Street,3,17,34
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Street,3,18,23
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Street,4,9,6
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Street,4,11,7
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Street,4,12,42
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Street,4,13,26
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Street,4,14,8
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Street,4,16,31
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Street,4,17,34
+Location 7b: Regents Drive at Stadium Drive EAST/WEST,Street,4,18,40
+Location 8: Regents Drive at Lot 11b,Sidewalk,3,10,8
+Location 8: Regents Drive at Lot 11b,Sidewalk,3,11,3
+Location 8: Regents Drive at Lot 11b,Sidewalk,3,12,5
+Location 8: Regents Drive at Lot 11b,Sidewalk,3,13,8
+Location 8: Regents Drive at Lot 11b,Sidewalk,3,14,2
+Location 8: Regents Drive at Lot 11b,Sidewalk,3,16,2
+Location 8: Regents Drive at Lot 11b,Sidewalk,3,17,7
+Location 8: Regents Drive at Lot 11b,Sidewalk,4,9,6
+Location 8: Regents Drive at Lot 11b,Sidewalk,4,10,1
+Location 8: Regents Drive at Lot 11b,Sidewalk,4,13,1
+Location 8: Regents Drive at Lot 11b,Sidewalk,4,14,2
+Location 8: Regents Drive at Lot 11b,Sidewalk,4,17,11
+Location 8: Regents Drive at Lot 11b,Sidewalk,4,18,4
+Location 8: Regents Drive at Lot 11b,Street,3,8,5
+Location 8: Regents Drive at Lot 11b,Street,3,9,5
+Location 8: Regents Drive at Lot 11b,Street,3,10,17
+Location 8: Regents Drive at Lot 11b,Street,3,12,9
+Location 8: Regents Drive at Lot 11b,Street,3,13,6
+Location 8: Regents Drive at Lot 11b,Street,3,14,3
+Location 8: Regents Drive at Lot 11b,Street,3,16,3
+Location 8: Regents Drive at Lot 11b,Street,3,17,7
+Location 8: Regents Drive at Lot 11b,Street,3,18,8
+Location 8: Regents Drive at Lot 11b,Street,4,9,2
+Location 8: Regents Drive at Lot 11b,Street,4,10,5
+Location 8: Regents Drive at Lot 11b,Street,4,11,1
+Location 8: Regents Drive at Lot 11b,Street,4,13,3
+Location 8: Regents Drive at Lot 11b,Street,4,14,5
+Location 8: Regents Drive at Lot 11b,Street,4,17,13
+Location 8: Regents Drive at Lot 11b,Street,4,18,11
+Location 9: Campus Drive at Adelphi Road,Sidewalk,3,8,1
+Location 9: Campus Drive at Adelphi Road,Sidewalk,3,9,14
+Location 9: Campus Drive at Adelphi Road,Sidewalk,3,10,6
+Location 9: Campus Drive at Adelphi Road,Sidewalk,3,11,1
+Location 9: Campus Drive at Adelphi Road,Sidewalk,3,12,12
+Location 9: Campus Drive at Adelphi Road,Sidewalk,3,13,7
+Location 9: Campus Drive at Adelphi Road,Sidewalk,3,14,2
+Location 9: Campus Drive at Adelphi Road,Sidewalk,3,16,13
+Location 9: Campus Drive at Adelphi Road,Sidewalk,3,17,11
+Location 9: Campus Drive at Adelphi Road,Sidewalk,3,18,6
+Location 9: Campus Drive at Adelphi Road,Sidewalk,4,8,3
+Location 9: Campus Drive at Adelphi Road,Sidewalk,4,9,19
+Location 9: Campus Drive at Adelphi Road,Sidewalk,4,10,1
+Location 9: Campus Drive at Adelphi Road,Sidewalk,4,12,5
+Location 9: Campus Drive at Adelphi Road,Sidewalk,4,13,14
+Location 9: Campus Drive at Adelphi Road,Sidewalk,4,14,1
+Location 9: Campus Drive at Adelphi Road,Sidewalk,4,16,13
+Location 9: Campus Drive at Adelphi Road,Sidewalk,4,17,15
+Location 9: Campus Drive at Adelphi Road,Sidewalk,4,18,13
+Location 9: Campus Drive at Adelphi Road,Street,3,8,12
+Location 9: Campus Drive at Adelphi Road,Street,3,9,16
+Location 9: Campus Drive at Adelphi Road,Street,3,10,12
+Location 9: Campus Drive at Adelphi Road,Street,3,11,1
+Location 9: Campus Drive at Adelphi Road,Street,3,12,12
+Location 9: Campus Drive at Adelphi Road,Street,3,13,10
+Location 9: Campus Drive at Adelphi Road,Street,3,14,1
+Location 9: Campus Drive at Adelphi Road,Street,3,16,12
+Location 9: Campus Drive at Adelphi Road,Street,3,17,16
+Location 9: Campus Drive at Adelphi Road,Street,3,18,8
+Location 9: Campus Drive at Adelphi Road,Street,4,8,10
+Location 9: Campus Drive at Adelphi Road,Street,4,9,20
+Location 9: Campus Drive at Adelphi Road,Street,4,10,5
+Location 9: Campus Drive at Adelphi Road,Street,4,11,1
+Location 9: Campus Drive at Adelphi Road,Street,4,12,4
+Location 9: Campus Drive at Adelphi Road,Street,4,13,9
+Location 9: Campus Drive at Adelphi Road,Street,4,14,3
+Location 9: Campus Drive at Adelphi Road,Street,4,16,12
+Location 9: Campus Drive at Adelphi Road,Street,4,17,13
+Location 9: Campus Drive at Adelphi Road,Street,4,18,12
